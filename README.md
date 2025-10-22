@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I’m Black  
 
-<!--
-**Black-sys-dot/Black-sys-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI tinkerer | Student | Code gremlin who somehow makes things work  
 
-Here are some ideas to get you started:
+> Starts simple. Gets weird. Still works (most of the time).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do  
+- Build AI models that *probably* shouldn’t work but do anyway  
+- Mix rule-based logic with neural networks like some digital alchemy  
+- Break things just to fix them better  
+
+### ⚙️ Tech Stuff I Use  
+`Python` • `PyTorch` • `NumPy` • `scikit-learn` • `Matplotlib`
+
+### 🧩 Projects You Might Like  
+- 🧭 **Internship Recommender** — Triplet NN that matches candidates to jobs  
+- 💰 **Income Prediction** — ML model guessing who earns >50K  
+- 🐾 **Cat vs Dog Classifier** — SVM that barks and meows  
+
+### ☕ Current Status  
+Running on caffeine and questionable logic.  
+
+---
+⭐ *If it runs without errors, I get suspicious.*
