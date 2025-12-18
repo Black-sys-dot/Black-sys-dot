@@ -10,7 +10,7 @@ AI tinkerer | Student | Code gremlin who somehow makes things work
 - Break things just to fix them better  
 
 ### ⚙️ Tech Stuff I Use  
-`Python` • `PyTorch` • `NumPy` • `scikit-learn` • `Matplotlib`
+`Python` • `PyTorch` • `NumPy` • `scikit-learn` • `TensorFlow`
 
 ### 🧩 Projects You Might Like  
 - 🧭 **Internship Recommender** — Triplet NN that matches candidates to jobs  
